@@ -1,0 +1,43 @@
+baseURL: "http://andyfeng.me/"
+languageCode: "en-us"
+title: "Jianting'Log"
+theme: "PaperMod"
+paginate: 5
+enableEmoji: true
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+math: true
+
+params:
+    homeInfoParams:
+      Title: Hi, I'm Jianting. 
+      Content: Learning and Sharing 
+
+    socialIcons: # optional
+        - name: email
+          url:  "mailto:gianting01@gmail.com"
+        - name: GitHub 
+          url: "https://github.com/JiantingFeng"
+        - name: "rss"
+          url: "https://blog.jiantingfeng.vip/index.xml" # TODO Fix RSS feed
+
+assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "https://icons8.com/icon/12860/coffee-to-go"
+# <a target="_blank" href="https://icons8.com/icon/12860/coffee-to-go">Coffee to Go</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+menu:
+    main:
+      - identifier: posts
+        name: Posts
+        url: /posts/
+        weight: 10
+      - identifier: about
+        name: About Me 
+        url: /about/
