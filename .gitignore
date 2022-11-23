@@ -1,12 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/hugo,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=hugo,macos
 
-### Hugo ###
-# Generated files by hugo
-/public/
-/resources/_gen/
-/assets/jsconfig.json
-hugo_stats.json
 
 # Executable may be added to repository
 hugo.exe
