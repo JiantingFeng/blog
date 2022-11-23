@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jianting&#39;Log</title>
-    <link>http://andyfeng.me/</link>
+    <link>http://blog.jiantingfeng.vip/</link>
     <description>Recent content on Jianting&#39;Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Nov 2022 15:23:58 +0800</lastBuildDate><atom:link href="http://andyfeng.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Nov 2022 15:23:58 +0800</lastBuildDate><atom:link href="http://blog.jiantingfeng.vip/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Touch Typing</title>
-      <link>http://andyfeng.me/posts/touch-typing/</link>
+      <link>http://blog.jiantingfeng.vip/posts/touch-typing/</link>
       <pubDate>Wed, 23 Nov 2022 15:23:58 +0800</pubDate>
       
-      <guid>http://andyfeng.me/posts/touch-typing/</guid>
+      <guid>http://blog.jiantingfeng.vip/posts/touch-typing/</guid>
       <description>Touch typing, a way to enhance typing speed.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://andyfeng.me/about/</link>
+      <link>http://blog.jiantingfeng.vip/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://andyfeng.me/about/</guid>
+      <guid>http://blog.jiantingfeng.vip/about/</guid>
       <description>Intro Hello, I&amp;rsquo;m Jianting Feng, a machine learning enthusiast based in Xi&amp;rsquo;an, China! Currently, I&amp;rsquo;m looking for a RA/MPhil/PhD position. My major research interest lies in the theory of machine learning and its applications.
 If you have any suggestions or problems, please feel free 🤗 to contact me.
 Education 2018-2022: B.Sc. in Information and Computing Science, Beijing Institute of Technology, China Skills Data Sturcture and Algorithms, C/C++, Python. Linux, Git, Tmux, Vim.</description>
