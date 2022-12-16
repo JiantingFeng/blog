@@ -9,7 +9,7 @@ author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: false 
+draft: true 
 hidemeta: false
 comments: false
 description: "Touch typing, a way to enhance typing speed."
@@ -61,25 +61,21 @@ The pros of touch typing is quiet obvious. Make use of every finger (rather than
 
 Ideally, when your prductivity doubled, you can finish your tasks faster and have much more time to do something else, this is the only reason I want to learn this technique. For most of the time, my hands can't typing as fast as my brain, which made me very annoying, I believe after learning touch typing for a while, I can solve this problem.
 
-Let's do a kindergarden mathematics. Suppose your typing speed is average (40 words per minutes or **wpm**), each day you spend 4 hours typing, which means you can type around 
+Let's do a kindergarden mathematics. Suppose your typing speed is average (40 words per minutes or **wpm**), each day you spend 4 hours typing, which means you can type around
+
 $$
 40\times60\times 4 = 9600 \text{ words}
 $$
+
 (of course this calculation ignores the thinking time), if your speed doubled, you can save half of typing time a day, that's sounds really attracting.
 
-
-
-### Cons 
+### Cons
 
 However, as many other techniques which can improve your productivity as well, touch typing has a extreme steep learning curve. All of us knows how to typing, but when you want to learn touch typing, you must leave your comportable zone (the typing style you are familar with), and relearn it from zero. The most difficult part is to forget all your prior muscle memory.
 
 I have tried touch typing for a while (about 4~5 hours), and the most difficult part until now is I can't use my last two fingers (pinky and ring finger) as swift as possible.
 
 ![fingers](fingers.jpg#center)
-
-
-
-
 
 ## Resoruces
 
@@ -92,4 +88,4 @@ Following is useful websites help me a lot while learning touch typing:
 
 > I will practice touch typing every day and record my progress here.
 
-- 2022-11-23:	29wpm / 94%acc, little finger is so hard to use😵‍💫.
+- 2022-11-23: 29wpm / 94%acc, little finger is so hard to use😵‍💫.
