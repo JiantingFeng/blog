@@ -4,12 +4,9 @@ ShowRssButtonInSectionTermList: false
 ShowRssButtonInSectionTermList: false
 ---
 
-
-
 # Intro
 
-Hello, I'm Jianting Feng, a machine learning enthusiast based in Xi'an, China! Currently, I'm looking for a RA/MPhil/PhD position. My major research interest lies in the theory of machine learning and its applications.
-
+Hi, I'm Feng Jianting, welcome to my homepage.
 If you have any suggestions or problems, please feel free 🤗 to [contact me](mailto:gianting01@gmail.com).
 
 # Education

@@ -16,8 +16,8 @@ math: true
 
 params:
     homeInfoParams:
-      Title: Hi, I'm Jianting. 
-      Content: Learning and Sharing 
+      Title: 👋 Hi, there. 
+      Content: Welcome to my homepage, I'd like to share my experiences and notes here. 
 
     socialIcons: # optional
         - name: email
